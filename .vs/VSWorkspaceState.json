@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bankMVC",
+    "\\bankMVC\\Models",
+    "\\bankMVC\\Models\\Entities",
+    "\\bankMVC\\Repositories",
+    "\\bankMVC\\Repositories\\Implementations",
+    "\\bankMVC\\Repositories\\Interfaces"
+  ],
+  "SelectedNode": "\\bankMVC\\Repositories\\Interfaces\\IAccountRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
